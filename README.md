@@ -28,7 +28,7 @@ the factors that influence hiring decisions.
 ### Logistic Regression
 Logistic Regression is a supervised learning algorithm used for 
 binary classification. It models the probability of a binary outcome 
-using the sigmoid function — mapping any real-valued input to a value 
+using the sigmoid function: mapping any real-valued input to a value 
 between 0 and 1. The decision boundary separates the two classes 
 (Placed/Not Placed) by finding the optimal weights through maximum 
 likelihood estimation.
@@ -64,7 +64,7 @@ real-time predictions through a browser-based user interface.
 - Pillow (PIL)
 
 ## Project Type
-End-to-end ML pipeline — from raw data to deployed web application.
+End-to-end ML pipeline from raw data to deployed web application.
 
 ## Author
 **Rijul Thakur**  
