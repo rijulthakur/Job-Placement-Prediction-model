@@ -68,5 +68,4 @@ End-to-end ML pipeline — from raw data to deployed web application.
 
 ## Author
 **Rijul Thakur**  
-B.E. Computer Science and Engineering, Chitkara University (2019–2023)  
-Self-initiated project, 2023–2024
+B.E. Computer Science and Engineering, Chitkara University (2019–2023)
