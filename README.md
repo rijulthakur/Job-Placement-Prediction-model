@@ -3,9 +3,8 @@
 ## Overview
 An end-to-end machine learning web application that predicts whether 
 a candidate will be placed or not placed based on academic performance, 
-work experience, and employability test scores. Built using Logistic 
-Regression and deployed as an interactive web application using 
-Streamlit.
+work experience, and employability test scores built using Logistic 
+Regression.
 
 ## Problem Statement
 Campus placement outcomes depend on multiple academic and personal 
