@@ -48,10 +48,6 @@ Data was split into training and test sets using scikit-learn's
 train_test_split. Model accuracy was evaluated using sklearn's 
 accuracy_score metric.
 
-### Model Deployment
-The trained model was serialised using Python's Pickle library and 
-integrated into a Streamlit web application (app.py), enabling 
-real-time predictions through a browser-based user interface.
 
 ## Tech Stack
 - Python
@@ -60,8 +56,6 @@ real-time predictions through a browser-based user interface.
 - scikit-learn (LogisticRegression, train_test_split, accuracy_score)
 - Matplotlib, Seaborn
 - Pickle
-- Streamlit
-- Pillow (PIL)
 
 ## Project Type
 End-to-end ML pipeline from raw data to deployed web application.
